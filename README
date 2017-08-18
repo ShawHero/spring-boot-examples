@@ -1,0 +1,32 @@
+模块功能介绍：
+spring-boot-demo
+	spring-boot-simple
+		spring boot快速入门实例
+	spring-boot-oauth2
+		spring boot使用中如何使用oauth2
+		1）spring-oauth-in-memory
+			内存实现
+		2）spring-oauth-jdbc
+			基于数据库实现
+		3）spring-oauth-redis
+			基于redis缓存
+	spring-boot-quartz
+		分布式定时器quartz介绍
+	spring-boot-starter-hello
+		spring-boot-starter核心原理讲解（声明）
+	spring-boot-starter-hello-demo
+		spring-boot-starter核心原理讲解（使用）	
+	spring-boot-demo实战
+		spring boot基础组件集成
+		2.1	Druid数据源
+		2.2	Data JPA
+		2.3	Redis
+		2.4	Quartz
+		2.5	OAuth2.0（inMemory，Jdbc，Redis）
+		2.6	Junit测试
+		2.7	Lombok
+		2.8	Log4j2+loghouse日志
+		2.9	AutoDoc
+	
+
+
